@@ -1,0 +1,53 @@
+.backg{
+	text-align:center;
+	color: white;
+	background-color: black;	
+}
+.title {
+	text-align:center;
+	font-family: "Times New Roman", Times, serif;
+}
+.contrast{
+	border: solid;
+	padding: 5px;
+	box-shadow: 5px 10px;
+	position: relative;
+}
+.repetition{
+	border: solid;
+	padding: 5px;
+	box-shadow: 5px 10px red;
+}
+.alignment{
+	border: solid;
+	padding: 5px;
+	box-shadow: 5px 10px purple;
+}
+.proximity{
+	border: solid;
+	padding: 5px;
+	box-shadow: 5px 10px blue;
+}
+.page3{
+	font-family: "Times New Roman", Times, serif;
+	font-size: 20px
+
+}
+.g{
+	color: blue;
+}
+.o{
+	color: red;
+}
+.o2{
+	color: orange;
+}
+.g2{
+	color: blue;
+}
+.l{
+	color: green;
+}
+.e{
+	color: red;
+}
